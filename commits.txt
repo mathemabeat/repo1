@@ -1,0 +1,11 @@
+commit c09ae7ed2aae8d6c19f7f85d01fd84d37f3499e3
+Author: Juan Carlos <mathemabeat@gmail.com>
+Date:   Thu Feb 8 09:55:39 2018 -0600
+
+    se agrego un nuevo texto
+
+commit 4c6e5e895f3a11158b31d7b9e677ab041d3e0af4
+Author: Juan Carlos <mathemabeat@gmail.com>
+Date:   Thu Feb 8 09:43:02 2018 -0600
+
+    Este es el primer commit

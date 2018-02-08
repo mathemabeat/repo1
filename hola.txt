@@ -1,6 +1,4 @@
 hola mundo como estan ustedes
-
-
-œ
+Esta es una nueva linea 
 cat
 
